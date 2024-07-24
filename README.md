@@ -9,3 +9,7 @@ CMMC Center of Awesomeness - https://cmmc-coa.com/
 
 Phishing resistant passwordless authentication - https://www.beyondidentity.com/
 
+Creating diagrams and workflows
+  1. [Whimsical](https://whimsical.com/)
+  2. Draw.io
+  3. [Lucidchart](https://www.lucidchart.com/pages)
